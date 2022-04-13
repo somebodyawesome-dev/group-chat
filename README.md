@@ -13,4 +13,4 @@ a simple group chat app where a user can only chat privately with people from th
 <br/>
 <img src="preview/Screenshot from 2022-02-04 19-42-31.png" alt="wio" />
 <br/>
-<img src="preview/Screenshot from 2022-02-04 19-43-46.png" alt="wio" />
+<img src="preview/Screenshot from 2022-02-04 19-43-26.png" alt="wio" />
